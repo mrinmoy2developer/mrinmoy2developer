@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @mrinmoy2developer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Mrinmoy Banik!
 
-<!---
-mrinmoy2developer/mrinmoy2developer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Data Scientist | M.Stat Student at ISI | Machine Learning & AI Enthusiast
+
+Welcome to my GitHub! I’m passionate about data science, machine learning, and AI-driven solutions. With a strong foundation in statistics and programming, I love working on projects that combine theoretical insights with practical applications.
+
+🔍 About Me
+	•	🎓 Education: M.Stat (Master of Statistics) at Indian Statistical Institute
+	•	💡 Interests: Data Science, Machine Learning, Deep Learning, AI, and Sensor Fusion
+	•	🛠️ Skills: Python, R, SQL, TensorFlow, PyTorch, Scikit-Learn, Pandas, NumPy, Data Visualization
+	•	🏆 Projects: Indoor localization, Kalman filtering, Reverse engineering, and more!
+
+🚀 What I’m Working On
+
+🌱 Currently exploring sensor fusion for indoor localization, improving position estimates using Kalman filters and machine learning. Also diving into Arabic translation techniques for better understanding of AI-related content.
+
+🤝 Let’s Collaborate!
+
+I’m open to collaborating on:
+	•	Machine Learning & AI research projects
+	•	Data-driven applications in real-world problems
+	•	Sensor fusion and indoor localization challenges
+
+📫 Reach Me At
+	•	🌐 Portfolio & Blog: www.mrinmoy2developer.github.io
+	•	📧 Email: [your-email@example.com] (Replace with your actual email)
+	•	💼 LinkedIn: linkedin.com/in/mrinmoy-banik (Replace with your LinkedIn URL)
+
+Let’s connect and build something amazing! 🚀✨
