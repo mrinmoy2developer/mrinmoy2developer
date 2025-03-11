@@ -23,7 +23,7 @@ I’m open to collaborating on:
 
 📫 Reach Me At
 	•	🌐 Portfolio & Blog: www.mrinmoy2developer.github.io
-	•	📧 Email: [your-email@example.com] (Replace with your actual email)
-	•	💼 LinkedIn: linkedin.com/in/mrinmoy-banik (Replace with your LinkedIn URL)
+	•	📧 Email: [rinmoybanik12@gmail.com] (Replace with your actual email)
+	•	💼 LinkedIn: [linkedin.com/in/mrinmoy-banik](https://www.linkedin.com/in/mrinmoy-banik-6b754b1b9/) (Replace with your LinkedIn URL)
 
 Let’s connect and build something amazing! 🚀✨
