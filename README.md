@@ -22,7 +22,7 @@ I’m open to collaborating on:
 	•	Sensor fusion and indoor localization challenges
 
 📫 Reach Me At
-	•	🌐 Portfolio & Blog: www.mrinmoy2developer.github.io
+	•	🌐 Portfolio & Blog: [www.mrinmoy2developer.github.io](https://mrinmoy2developer.github.io)
 	•	📧 Email: [rinmoybanik12@gmail.com] 
 	•	💼 LinkedIn: [linkedin.com/in/mrinmoy-banik](https://www.linkedin.com/in/mrinmoy-banik-6b754b1b9/) 
 
